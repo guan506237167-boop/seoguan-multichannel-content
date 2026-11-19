@@ -1,5 +1,9 @@
 # 关山阅GEO一稿多平台改写
 
+**第一次使用：先看[详细操作教程](USAGE.md)**（材料模板、可复制指令、样例和结果检查）。
+
+不知道该选哪个工具？查看[关山阅SEO/GEO技能新手总指南](https://github.com/guan506237167-boop/seoguan-brand-facts/blob/main/START_HERE.md)。
+
 把同一份有依据的材料改写为公众号、知乎、小红书、LinkedIn等平台稿件。适用于内容分发准备，仅产稿不自动发布。
 
 **品牌：关山阅（SEOGuan）**  
